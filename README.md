@@ -2,6 +2,8 @@ Linux Tool for Geographic Graphs
 ================================
 Just another C++ hack
 
+![alt text](https://cloud.githubusercontent.com/assets/5241216/6472380/4c417ee0-c1f2-11e4-8991-17bda7bb7d89.jpg "Example")
+
 ## Requirements
 
 Following programs are required to build:
