@@ -1,0 +1,63 @@
+# The set of languages for which implicit dependencies are needed:
+SET(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+SET(CMAKE_DEPENDS_CHECK_CXX
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/AccelOperator.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/AccelOperator.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/AngularAccelOperator.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/AngularAccelOperator.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/AngularDampingOperator.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/AngularDampingOperator.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/BounceOperator.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/BounceOperator.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/BoxPlacer.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/BoxPlacer.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CenteredPlacer.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/CenteredPlacer.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CompositePlacer.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/CompositePlacer.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/ConnectedParticleSystem.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/ConnectedParticleSystem.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/ConstantRateCounter.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/ConstantRateCounter.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/Counter.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/Counter.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/DampingOperator.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/DampingOperator.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/DomainOperator.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/DomainOperator.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/Emitter.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/Emitter.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/ExplosionDebrisEffect.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/ExplosionDebrisEffect.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/ExplosionEffect.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/ExplosionEffect.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/ExplosionOperator.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/ExplosionOperator.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/FireEffect.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/FireEffect.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/FluidFrictionOperator.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/FluidFrictionOperator.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/FluidProgram.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/FluidProgram.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/ForceOperator.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/ForceOperator.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/Interpolator.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/Interpolator.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/LibraryWrapper.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/LibraryWrapper.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/LinearInterpolator.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/LinearInterpolator.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/ModularEmitter.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/ModularEmitter.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/ModularProgram.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/ModularProgram.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/MultiSegmentPlacer.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/MultiSegmentPlacer.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/Operator.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/Operator.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/OrbitOperator.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/OrbitOperator.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/Particle.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/Particle.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/ParticleEffect.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/ParticleEffect.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/ParticleProcessor.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/ParticleProcessor.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/ParticleSystem.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/ParticleSystem.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/ParticleSystemUpdater.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/ParticleSystemUpdater.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/Placer.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/Placer.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/PointPlacer.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/PointPlacer.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/PrecipitationEffect.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/PrecipitationEffect.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/Program.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/Program.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/RadialShooter.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/RadialShooter.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/RandomRateCounter.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/RandomRateCounter.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/SectorPlacer.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/SectorPlacer.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/SegmentPlacer.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/SegmentPlacer.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/Shooter.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/Shooter.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/SinkOperator.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/SinkOperator.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/SmokeEffect.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/SmokeEffect.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/SmokeTrailEffect.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/SmokeTrailEffect.o"
+  "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/VariableRateCounter.cpp" "/home/fellipe/osg/src/osgWrappers/serializers/osgParticle/CMakeFiles/osgdb_serializers_osgparticle.dir/VariableRateCounter.o"
+  )
+SET(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Targets to which this target links.
+SET(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/fellipe/osg/src/OpenThreads/pthreads/CMakeFiles/OpenThreads.dir/DependInfo.cmake"
+  "/home/fellipe/osg/src/osg/CMakeFiles/osg.dir/DependInfo.cmake"
+  "/home/fellipe/osg/src/osgDB/CMakeFiles/osgDB.dir/DependInfo.cmake"
+  "/home/fellipe/osg/src/osgUtil/CMakeFiles/osgUtil.dir/DependInfo.cmake"
+  "/home/fellipe/osg/src/osgParticle/CMakeFiles/osgParticle.dir/DependInfo.cmake"
+  )

@@ -1,0 +1,43 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/osgdb_lua.dir/LuaScriptEngine.o"
+  "CMakeFiles/osgdb_lua.dir/ReaderWriterLua.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lapi.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lcode.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lctype.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/ldebug.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/ldo.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/ldump.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lfunc.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lgc.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/llex.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lmem.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lobject.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lopcodes.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lparser.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lstate.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lstring.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/ltable.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/ltm.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lundump.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lvm.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lzio.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lauxlib.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lbaselib.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lbitlib.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lcorolib.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/ldblib.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/liolib.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lmathlib.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/loslib.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/lstrlib.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/ltablib.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/loadlib.o"
+  "CMakeFiles/osgdb_lua.dir/lua-5.2.3/src/linit.o"
+  "../../../lib/osgPlugins-3.3.3/osgdb_lua.pdb"
+  "../../../lib/osgPlugins-3.3.3/osgdb_lua.so"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang C CXX)
+  INCLUDE(CMakeFiles/osgdb_lua.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

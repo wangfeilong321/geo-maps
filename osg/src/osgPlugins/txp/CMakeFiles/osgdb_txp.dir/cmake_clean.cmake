@@ -1,0 +1,42 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/osgdb_txp.dir/ReaderWriterTXP.o"
+  "CMakeFiles/osgdb_txp.dir/TileMapper.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_basic.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_compat.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_geom.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_header.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_label.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_light.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_main.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_managers.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_material.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_model.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_nodes.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_parse.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_pparse.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_print.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_print_parse.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_range.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_rarchive.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_readbuf.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_scene.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_swap.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_tile.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_util.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_warchive.o"
+  "CMakeFiles/osgdb_txp.dir/trpage_writebuf.o"
+  "CMakeFiles/osgdb_txp.dir/TXPArchive.o"
+  "CMakeFiles/osgdb_txp.dir/TXPIO.o"
+  "CMakeFiles/osgdb_txp.dir/TXPNode.o"
+  "CMakeFiles/osgdb_txp.dir/TXPPagedLOD.o"
+  "CMakeFiles/osgdb_txp.dir/TXPPageManager.o"
+  "CMakeFiles/osgdb_txp.dir/TXPParser.o"
+  "CMakeFiles/osgdb_txp.dir/TXPSeamLOD.o"
+  "../../../lib/osgPlugins-3.3.3/osgdb_txp.pdb"
+  "../../../lib/osgPlugins-3.3.3/osgdb_txp.so"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/osgdb_txp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

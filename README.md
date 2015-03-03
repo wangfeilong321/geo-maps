@@ -1,6 +1,6 @@
-C++ Distributed IBLT
-====================
-Distributed C++ Implementation of an IBLT
+Linux Tool for Geographic Graphs
+================================
+Just another C++ hack
 
 ## Requirements
 
