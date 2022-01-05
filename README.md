@@ -52,16 +52,3 @@ Following programs are required to build:
 ## Running
 
 (1) ./run.sh (should work in most Linux systems, if the code is cloned in the home directory with all dependencies)
-
-
-## TODOs
-
-(1) Include some Qt stuff, like boxes for providing the output file name or a combo box for selecting the graphs to be processed, so that not all the graphs must be loaded at once
-
-(2) Actualize the dependencies
-
-## License
-
-  Copyright (C) 2014 Fellipe Bernardes-Lima <fellipebl@gmail.com>
-
-  Copy if you get happier, but don't complain if it doesn't work. And the copyright notices written in the source files are valid.
